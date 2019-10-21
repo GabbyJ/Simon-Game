@@ -67,19 +67,6 @@ function nextSequence(){
     playSound(randomChosenColor);
     console.log(randomChosenColor);
     console.log(gamePattern);
-    
-    
-
-    //look into adding for loop to repeat back all past colors instead just most recent
-    
-    // while (i <= (gamePattern.length)-1){
-        
-        
-    // };
-     //$.each(gamePattern, function(i, index){
-        
-        
-     //});
    
 
 };
